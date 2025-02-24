@@ -12,4 +12,8 @@ Install gem "activerecord-import"
 
 #### Test
 
-` rake import_csv:posts`
+`rake import_csv:posts`
+
+#### Seed from csv
+
+You can move codes from import_csv.rake to seeds.rb to run
